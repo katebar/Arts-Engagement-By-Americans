@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Arts spending by American</title>
+
+    <!-- D3 and JQuery Javascript -->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <!-- Parallel Sets (optional) -->
+    <link rel="stylesheet" href="css/parsets.css" type="text/css">
+    <script type="text/javascript" src="js/d3.parsets.js"></script>
+
+    <!-- Bootstrap Core CSS  -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+
+    <style>
+        div.tooltips {
+            z-index: 99;
+            position: absolute !important;
+            background-color: #fff;
+            opacity: 0.9;
+            padding: 5px;
+        }
+
+        .dimension tspan.name {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 24px;
+            fill: #333;
+            font-weight: 600; 
+        }
+
+        .category text{
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 16px;
+            fill: #333;
+            font-weight: 400; 
+        }
+    </style>
+</head>
+
+<body id="page-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <h1 class="title margin-top-lg">Analyzing how Americans engage in Arts</h1>
+                <p class="body-text margin-md">Our visualization explores how Americans participate in the arts based on year, state, age, income, education level and specific art form. We drew our data from the Interuniversity Consortium for Political and Social Research’s (ICPSR) Survey of Public Participation in the Arts. We base our solution on Parallel Sets, a visualization strategy for multivariate, categorical data. This prototype uses data from California and New Mexico.</p>
+            </div>
+        </div>
+    </div>
+    <div class="tooltip-container"></div>
+    <div class="container">
+        <div class="row">
+           <!--  <div class="col-lg-8">
+                <div class="margin-btm-lg" id="trends"></div>
+            </div> -->
+            <div class="col-lg-4">
+                <p class="legend-header margin-top-md">Select State:</p>
+                <div class="dropdown-custom-drop">
+                    <button class="btn btn-default dropdown-toggle btn-bar" type="button" data-toggle="dropdown">California
+                    <span class="caret"></span></button>
+                    <ul class="dropdown-menu dropdown-bar">
+                        <li><a id="california" class="custom-btn" onclick="drawPlots(this.id, this.text)">California</a></li>
+                        <li><a id="nmexico" class="custom-btn" onclick="drawPlots(this.id, this.text)">New Mexico</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="margin-btm-lg" id="vis"></div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+    $(function(){
+        $(".dropdown-menu.dropdown-bar").on('click', 'li a', function(){
+            $(".btn-bar:first-child").html($(this).text()+ ' <span class="caret"></span>');
+            $(".btn-bar:first-child").val($(this).text());
+        });
+    })
+
+    var chart = d3.parsets();
+    
+    chart.dimensions(["Artform", "Income", "Age"]);
+
+    var vis = d3.select("#vis").append("svg")
+        .attr("width", chart.width())
+        .attr("height", chart.height());
+
+    var body = d3.select(".tooltip-container");
+    var tooltips = body.append("div")
+        .attr("class", "parsets tooltips");
+
+    var state1, state2;
+
+    d3.csv("data/california.csv", function(error, data) {
+        state1 = data;
+    });
+
+    d3.csv("data/nmexico.csv", function(error, data) {
+       state2 = data; 
+    });
+
+    function drawParsets(data){
+        vis.datum(data).call(chart);
+        chart.tooltip(function(d, i){
+            var count = d.count, path = [];
+            while (d.parent) {
+              if (d.name) path.unshift(d.name);
+              d = d.parent;
+            }
+            
+            var x = 0, y = 0, eTop = $('#vis').offset().top;
+            x = d3.mouse(body.node())[0];
+            y = d3.mouse(body.node())[1] + 460;
+
+            //console.log(eTop);
+
+            d3.select(".tooltips")
+                .style("left", ((x+20) + "px"))
+                .style("top", ((y-20-140) + "px"))
+                .html(path.join(" → ") + "<br>" + count + " (" + Math.round((count/d.count)*100)+ "%)");
+        })
+    }
+</script>
+
+<!-- Custom JS -->
+<script type="text/javascript" src="js/custom.js"></script>
+
+</html>

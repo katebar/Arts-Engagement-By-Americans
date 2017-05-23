@@ -1,0 +1,814 @@
+Year,Income,Age,Education,Artform
+2008,75K+,18 to 24,college,art museum
+2002,0-15K,18 to 24,some college,art museum
+2002,75K+,18 to 24,some college,art museum
+2002,50K-75K,18 to 24,some college,art museum
+2012,30K-50K,18 to 24,< 9th grade,craft fair
+2002,15K-30K,18 to 24,high school,craft fair
+2002,75K+,18 to 24,high school,craft fair
+2012,0-15K,18 to 24,high school,craft fair
+2002,0-15K,18 to 24,some college,craft fair
+2008,50K-75K,18 to 24,some college,craft fair
+2002,15K-30K,18 to 24,some high school,craft fair
+2008,75K+,18 to 24,some high school,craft fair
+2008,15K-30K,18 to 24,some high school,craft fair
+2012,0-15K,18 to 24,some high school,craft fair
+2012,75K+,18 to 24,some high school,craft fair
+2002,30K-50K,18 to 24,high school,festival
+2012,50K-75K,18 to 24,high school,festival
+2008,30K-50K,18 to 24,some college,festival
+2012,75K+,18 to 24,some college,festival
+2002,75K+,18 to 24,college,jazz
+2002,75K+,18 to 24,some college,jazz
+2012,0-15K,18 to 24,some college,jazz
+2002,30K-50K,18 to 24,high school,musical
+2002,30K-50K,18 to 24,< 9th grade,park
+2012,75K+,18 to 24,college,park
+2012,75K+,18 to 24,college,park
+2002,30K-50K,18 to 24,high school,park
+2002,50K-75K,18 to 24,high school,park
+2008,30K-50K,18 to 24,high school,park
+2008,0-15K,18 to 24,high school,park
+2008,75K+,18 to 24,high school,park
+2008,15K-30K,18 to 24,high school,park
+2008,0-15K,18 to 24,high school,park
+2008,15K-30K,18 to 24,high school,park
+2008,0-15K,18 to 24,high school,park
+2008,0-15K,18 to 24,high school,park
+2008,75K+,18 to 24,high school,park
+2008,75K+,18 to 24,high school,park
+2012,75K+,18 to 24,high school,park
+2012,75K+,18 to 24,high school,park
+2012,75K+,18 to 24,high school,park
+2012,50K-75K,18 to 24,high school,park
+2012,0-15K,18 to 24,high school,park
+2012,30K-50K,18 to 24,high school,park
+2012,30K-50K,18 to 24,high school,park
+2002,15K-30K,18 to 24,some college,park
+2002,0-15K,18 to 24,some college,park
+2002,75K+,18 to 24,some college,park
+2002,75K+,18 to 24,some college,park
+2002,75K+,18 to 24,some college,park
+2002,75K+,18 to 24,some college,park
+2002,50K-75K,18 to 24,some college,park
+2008,50K-75K,18 to 24,some college,park
+2008,15K-30K,18 to 24,some college,park
+2008,75K+,18 to 24,some college,park
+2008,50K-75K,18 to 24,some college,park
+2008,75K+,18 to 24,some college,park
+2008,75K+,18 to 24,some college,park
+2008,30K-50K,18 to 24,some college,park
+2008,0-15K,18 to 24,some college,park
+2012,75K+,18 to 24,some college,park
+2012,30K-50K,18 to 24,some college,park
+2012,30K-50K,18 to 24,some college,park
+2012,30K-50K,18 to 24,some college,park
+2012,30K-50K,18 to 24,some college,park
+2012,30K-50K,18 to 24,some college,park
+2012,30K-50K,18 to 24,some college,park
+2002,0-15K,18 to 24,some high school,park
+2008,0-15K,18 to 24,some high school,park
+2012,15K-30K,18 to 24,some high school,park
+2002,30K-50K,18 to 24,high school,play
+2002,0-15K,18 to 24,some high school,play
+2012,30K-50K,18 to 24,some high school,play
+2012,30K-50K,18 to 24,< 9th grade,salsa
+2008,30K-50K,18 to 24,high school,salsa
+2008,15K-30K,18 to 24,high school,salsa
+2012,30K-50K,18 to 24,high school,salsa
+2012,75K+,18 to 24,high school,salsa
+2012,30K-50K,18 to 24,high school,salsa
+2012,15K-30K,18 to 24,high school,salsa
+2012,50K-75K,18 to 24,high school,salsa
+2012,0-15K,18 to 24,high school,salsa
+2008,15K-30K,18 to 24,some college,salsa
+2012,50K-75K,18 to 24,some college,salsa
+2012,30K-50K,18 to 24,some high school,salsa
+2002,15K-30K,25 to 34,< 9th grade,art museum
+2012,30K-50K,25 to 34,college,art museum
+2008,30K-50K,25 to 34,graduate school,art museum
+2002,30K-50K,25 to 34,high school,art museum
+2008,30K-50K,25 to 34,high school,art museum
+2002,15K-30K,25 to 34,some college,art museum
+2008,75K+,25 to 34,some college,art museum
+2008,75K+,25 to 34,some college,art museum
+2012,0-15K,25 to 34,some college,art museum
+2012,75K+,25 to 34,some college,art museum
+2008,75K+,25 to 34,some high school,art museum
+2012,30K-50K,25 to 34,some college,ballet
+2012,30K-50K,25 to 34,< 9th grade,classical
+2002,75K+,25 to 34,college,classical
+2008,0-15K,25 to 34,< 9th grade,craft fair
+2012,30K-50K,25 to 34,college,craft fair
+2002,75K+,25 to 34,high school,craft fair
+2002,15K-30K,25 to 34,high school,craft fair
+2002,50K-75K,25 to 34,high school,craft fair
+2008,50K-75K,25 to 34,high school,craft fair
+2008,50K-75K,25 to 34,high school,craft fair
+2008,30K-50K,25 to 34,high school,craft fair
+2012,0-15K,25 to 34,high school,craft fair
+2012,75K+,25 to 34,high school,craft fair
+2012,75K+,25 to 34,high school,craft fair
+2002,75K+,25 to 34,some college,craft fair
+2008,75K+,25 to 34,some college,craft fair
+2008,50K-75K,25 to 34,some college,craft fair
+2012,30K-50K,25 to 34,some college,craft fair
+2012,50K-75K,25 to 34,some college,craft fair
+2002,15K-30K,25 to 34,some high school,craft fair
+2008,50K-75K,25 to 34,some high school,craft fair
+2008,50K-75K,25 to 34,some high school,craft fair
+2008,50K-75K,25 to 34,some high school,craft fair
+2012,0-15K,25 to 34,some high school,craft fair
+2008,15K-30K,25 to 34,< 9th grade,dance
+2008,30K-50K,25 to 34,some college,dance
+2008,30K-50K,25 to 34,college,festival
+2012,75K+,25 to 34,college,festival
+2012,30K-50K,25 to 34,college,festival
+2008,30K-50K,25 to 34,graduate school,festival
+2012,50K-75K,25 to 34,graduate school,festival
+2002,30K-50K,25 to 34,high school,festival
+2002,30K-50K,25 to 34,some college,festival
+2002,30K-50K,25 to 34,some college,festival
+2002,50K-75K,25 to 34,some high school,festival
+2012,30K-50K,25 to 34,high school,jazz
+2008,0-15K,25 to 34,some high school,jazz
+2008,50K-75K,25 to 34,high school,musical
+2008,75K+,25 to 34,some college,musical
+2008,75K+,25 to 34,some college,musical
+2002,75K+,25 to 34,< 9th grade,park
+2012,0-15K,25 to 34,< 9th grade,park
+2012,30K-50K,25 to 34,< 9th grade,park
+2002,30K-50K,25 to 34,college,park
+2002,15K-30K,25 to 34,college,park
+2008,75K+,25 to 34,college,park
+2008,30K-50K,25 to 34,college,park
+2008,50K-75K,25 to 34,college,park
+2008,30K-50K,25 to 34,college,park
+2008,50K-75K,25 to 34,college,park
+2008,30K-50K,25 to 34,college,park
+2012,75K+,25 to 34,college,park
+2012,75K+,25 to 34,college,park
+2012,75K+,25 to 34,college,park
+2012,75K+,25 to 34,college,park
+2012,15K-30K,25 to 34,college,park
+2012,75K+,25 to 34,college,park
+2012,75K+,25 to 34,college,park
+2008,75K+,25 to 34,graduate school,park
+2008,75K+,25 to 34,graduate school,park
+2008,50K-75K,25 to 34,graduate school,park
+2012,75K+,25 to 34,graduate school,park
+2012,50K-75K,25 to 34,graduate school,park
+2012,75K+,25 to 34,graduate school,park
+2012,75K+,25 to 34,graduate school,park
+2002,15K-30K,25 to 34,high school,park
+2002,0-15K,25 to 34,high school,park
+2002,75K+,25 to 34,high school,park
+2002,0-15K,25 to 34,high school,park
+2002,0-15K,25 to 34,high school,park
+2002,15K-30K,25 to 34,high school,park
+2002,0-15K,25 to 34,high school,park
+2008,50K-75K,25 to 34,high school,park
+2008,50K-75K,25 to 34,high school,park
+2008,50K-75K,25 to 34,high school,park
+2008,50K-75K,25 to 34,high school,park
+2012,15K-30K,25 to 34,high school,park
+2012,50K-75K,25 to 34,high school,park
+2012,75K+,25 to 34,high school,park
+2012,50K-75K,25 to 34,high school,park
+2012,15K-30K,25 to 34,high school,park
+2012,30K-50K,25 to 34,high school,park
+2012,50K-75K,25 to 34,high school,park
+2012,75K+,25 to 34,high school,park
+2012,15K-30K,25 to 34,high school,park
+2002,30K-50K,25 to 34,some college,park
+2002,15K-30K,25 to 34,some college,park
+2002,30K-50K,25 to 34,some college,park
+2002,75K+,25 to 34,some college,park
+2002,75K+,25 to 34,some college,park
+2002,0-15K,25 to 34,some college,park
+2002,15K-30K,25 to 34,some college,park
+2002,30K-50K,25 to 34,some college,park
+2002,75K+,25 to 34,some college,park
+2002,0-15K,25 to 34,some college,park
+2008,50K-75K,25 to 34,some college,park
+2008,75K+,25 to 34,some college,park
+2008,50K-75K,25 to 34,some college,park
+2008,75K+,25 to 34,some college,park
+2008,75K+,25 to 34,some college,park
+2008,75K+,25 to 34,some college,park
+2008,30K-50K,25 to 34,some college,park
+2008,30K-50K,25 to 34,some college,park
+2008,0-15K,25 to 34,some college,park
+2012,0-15K,25 to 34,some college,park
+2012,50K-75K,25 to 34,some college,park
+2012,75K+,25 to 34,some college,park
+2012,75K+,25 to 34,some college,park
+2012,50K-75K,25 to 34,some college,park
+2012,75K+,25 to 34,some college,park
+2012,0-15K,25 to 34,some college,park
+2012,50K-75K,25 to 34,some college,park
+2012,0-15K,25 to 34,some college,park
+2012,15K-30K,25 to 34,some college,park
+2012,75K+,25 to 34,some college,park
+2012,30K-50K,25 to 34,some college,park
+2012,30K-50K,25 to 34,some college,park
+2012,15K-30K,25 to 34,some college,park
+2002,15K-30K,25 to 34,some high school,park
+2002,15K-30K,25 to 34,some high school,park
+2002,30K-50K,25 to 34,some high school,park
+2002,0-15K,25 to 34,some high school,park
+2002,15K-30K,25 to 34,some high school,park
+2012,0-15K,25 to 34,some high school,park
+2012,75K+,25 to 34,some high school,park
+2012,0-15K,25 to 34,some high school,park
+2012,50K-75K,25 to 34,some high school,park
+2012,30K-50K,25 to 34,high school,play
+2008,15K-30K,25 to 34,< 9th grade,salsa
+2008,0-15K,25 to 34,< 9th grade,salsa
+2008,75K+,25 to 34,college,salsa
+2008,75K+,25 to 34,graduate school,salsa
+2012,15K-30K,25 to 34,high school,salsa
+2012,30K-50K,25 to 34,high school,salsa
+2012,30K-50K,25 to 34,high school,salsa
+2012,30K-50K,25 to 34,high school,salsa
+2008,15K-30K,25 to 34,some high school,salsa
+2008,15K-30K,25 to 34,some high school,salsa
+2012,0-15K,25 to 34,some high school,salsa
+2012,0-15K,25 to 34,some high school,salsa
+2012,0-15K,25 to 34,some high school,salsa
+2002,30K-50K,35 to 44,college,art museum
+2002,75K+,35 to 44,college,art museum
+2012,75K+,35 to 44,college,art museum
+2002,15K-30K,35 to 44,high school,art museum
+2002,15K-30K,35 to 44,some high school,art museum
+2012,50K-75K,35 to 44,some high school,art museum
+2012,30K-50K,35 to 44,< 9th grade,craft fair
+2012,50K-75K,35 to 44,college,craft fair
+2008,75K+,35 to 44,graduate school,craft fair
+2002,15K-30K,35 to 44,some college,craft fair
+2002,75K+,35 to 44,some college,craft fair
+2002,15K-30K,35 to 44,some college,craft fair
+2002,75K+,35 to 44,some college,craft fair
+2008,75K+,35 to 44,some college,craft fair
+2012,50K-75K,35 to 44,some college,craft fair
+2012,30K-50K,35 to 44,some college,craft fair
+2012,75K+,35 to 44,some college,craft fair
+2002,75K+,35 to 44,some high school,craft fair
+2012,75K+,35 to 44,some high school,craft fair
+2002,30K-50K,35 to 44,college,festival
+2012,75K+,35 to 44,graduate school,festival
+2008,75K+,35 to 44,high school,festival
+2012,15K-30K,35 to 44,high school,festival
+2002,50K-75K,35 to 44,some college,festival
+2008,15K-30K,35 to 44,some college,festival
+2008,50K-75K,35 to 44,some college,festival
+2002,0-15K,35 to 44,some high school,festival
+2002,30K-50K,35 to 44,college,jazz
+2002,75K+,35 to 44,graduate school,jazz
+2002,15K-30K,35 to 44,some college,jazz
+2002,75K+,35 to 44,some college,jazz
+2012,75K+,35 to 44,some college,jazz
+2008,15K-30K,35 to 44,some college,musical
+2002,0-15K,35 to 44,< 9th grade,park
+2002,30K-50K,35 to 44,< 9th grade,park
+2002,30K-50K,35 to 44,< 9th grade,park
+2002,15K-30K,35 to 44,< 9th grade,park
+2002,0-15K,35 to 44,< 9th grade,park
+2002,15K-30K,35 to 44,< 9th grade,park
+2012,15K-30K,35 to 44,< 9th grade,park
+2002,75K+,35 to 44,college,park
+2002,75K+,35 to 44,college,park
+2002,75K+,35 to 44,college,park
+2002,75K+,35 to 44,college,park
+2002,75K+,35 to 44,college,park
+2008,75K+,35 to 44,college,park
+2008,50K-75K,35 to 44,college,park
+2008,75K+,35 to 44,college,park
+2008,75K+,35 to 44,college,park
+2008,30K-50K,35 to 44,college,park
+2008,75K+,35 to 44,college,park
+2008,50K-75K,35 to 44,college,park
+2008,75K+,35 to 44,college,park
+2008,75K+,35 to 44,college,park
+2012,50K-75K,35 to 44,college,park
+2012,75K+,35 to 44,college,park
+2012,75K+,35 to 44,college,park
+2012,75K+,35 to 44,college,park
+2012,75K+,35 to 44,college,park
+2012,75K+,35 to 44,college,park
+2008,50K-75K,35 to 44,graduate school,park
+2008,75K+,35 to 44,graduate school,park
+2012,75K+,35 to 44,graduate school,park
+2002,50K-75K,35 to 44,high school,park
+2002,15K-30K,35 to 44,high school,park
+2002,75K+,35 to 44,high school,park
+2002,75K+,35 to 44,high school,park
+2002,0-15K,35 to 44,high school,park
+2002,30K-50K,35 to 44,high school,park
+2002,75K+,35 to 44,high school,park
+2002,30K-50K,35 to 44,high school,park
+2002,50K-75K,35 to 44,high school,park
+2002,15K-30K,35 to 44,high school,park
+2002,50K-75K,35 to 44,high school,park
+2002,75K+,35 to 44,high school,park
+2008,0-15K,35 to 44,high school,park
+2008,75K+,35 to 44,high school,park
+2008,75K+,35 to 44,high school,park
+2008,30K-50K,35 to 44,high school,park
+2008,15K-30K,35 to 44,high school,park
+2008,75K+,35 to 44,high school,park
+2008,15K-30K,35 to 44,high school,park
+2008,50K-75K,35 to 44,high school,park
+2008,30K-50K,35 to 44,high school,park
+2008,75K+,35 to 44,high school,park
+2008,75K+,35 to 44,high school,park
+2008,50K-75K,35 to 44,high school,park
+2008,75K+,35 to 44,high school,park
+2012,50K-75K,35 to 44,high school,park
+2012,75K+,35 to 44,high school,park
+2012,0-15K,35 to 44,high school,park
+2012,15K-30K,35 to 44,high school,park
+2012,50K-75K,35 to 44,high school,park
+2012,75K+,35 to 44,high school,park
+2012,75K+,35 to 44,high school,park
+2012,15K-30K,35 to 44,high school,park
+2012,75K+,35 to 44,high school,park
+2002,75K+,35 to 44,some college,park
+2002,50K-75K,35 to 44,some college,park
+2002,75K+,35 to 44,some college,park
+2002,0-15K,35 to 44,some college,park
+2008,50K-75K,35 to 44,some college,park
+2008,50K-75K,35 to 44,some college,park
+2008,30K-50K,35 to 44,some college,park
+2008,75K+,35 to 44,some college,park
+2008,15K-30K,35 to 44,some college,park
+2008,75K+,35 to 44,some college,park
+2008,30K-50K,35 to 44,some college,park
+2008,50K-75K,35 to 44,some college,park
+2008,50K-75K,35 to 44,some college,park
+2008,75K+,35 to 44,some college,park
+2008,75K+,35 to 44,some college,park
+2012,15K-30K,35 to 44,some college,park
+2012,75K+,35 to 44,some college,park
+2012,50K-75K,35 to 44,some college,park
+2012,15K-30K,35 to 44,some college,park
+2012,50K-75K,35 to 44,some college,park
+2012,50K-75K,35 to 44,some college,park
+2012,15K-30K,35 to 44,some college,park
+2012,75K+,35 to 44,some college,park
+2012,0-15K,35 to 44,some college,park
+2012,50K-75K,35 to 44,some college,park
+2012,0-15K,35 to 44,some college,park
+2012,75K+,35 to 44,some college,park
+2002,30K-50K,35 to 44,some high school,park
+2002,75K+,35 to 44,some high school,park
+2008,75K+,35 to 44,some high school,park
+2012,30K-50K,35 to 44,some high school,park
+2012,0-15K,35 to 44,some high school,park
+2012,0-15K,35 to 44,some high school,park
+2008,0-15K,35 to 44,some college,play
+2008,75K+,35 to 44,some college,play
+2008,30K-50K,35 to 44,< 9th grade,salsa
+2012,30K-50K,35 to 44,< 9th grade,salsa
+2012,30K-50K,35 to 44,< 9th grade,salsa
+2012,30K-50K,35 to 44,< 9th grade,salsa
+2012,50K-75K,35 to 44,< 9th grade,salsa
+2012,15K-30K,35 to 44,high school,salsa
+2012,75K+,35 to 44,high school,salsa
+2012,30K-50K,35 to 44,some high school,salsa
+2012,30K-50K,35 to 44,some high school,salsa
+2012,0-15K,35 to 44,some high school,salsa
+2008,30K-50K,45 to 54,some college,art museum
+2012,0-15K,45 to 54,some college,art museum
+2002,30K-50K,45 to 54,some high school,art museum
+2012,75K+,45 to 54,< 9th grade,ballet
+2012,75K+,45 to 54,some high school,ballet
+2002,75K+,45 to 54,college,classical
+2008,75K+,45 to 54,graduate school,classical
+2002,15K-30K,45 to 54,high school,classical
+2008,75K+,45 to 54,some college,classical
+2012,30K-50K,45 to 54,< 9th grade,craft fair
+2008,75K+,45 to 54,graduate school,craft fair
+2002,15K-30K,45 to 54,high school,craft fair
+2002,50K-75K,45 to 54,high school,craft fair
+2002,50K-75K,45 to 54,high school,craft fair
+2002,75K+,45 to 54,high school,craft fair
+2002,50K-75K,45 to 54,high school,craft fair
+2008,75K+,45 to 54,high school,craft fair
+2008,15K-30K,45 to 54,high school,craft fair
+2012,30K-50K,45 to 54,high school,craft fair
+2012,30K-50K,45 to 54,high school,craft fair
+2008,50K-75K,45 to 54,some college,craft fair
+2012,75K+,45 to 54,some college,craft fair
+2012,75K+,45 to 54,some college,craft fair
+2008,75K+,45 to 54,some high school,craft fair
+2012,75K+,45 to 54,some college,dance
+2008,15K-30K,45 to 54,< 9th grade,festival
+2012,75K+,45 to 54,college,festival
+2008,15K-30K,45 to 54,high school,festival
+2002,30K-50K,45 to 54,some college,festival
+2008,50K-75K,45 to 54,some college,festival
+2008,75K+,45 to 54,some college,festival
+2008,75K+,45 to 54,some college,festival
+2012,75K+,45 to 54,some college,festival
+2008,30K-50K,45 to 54,some high school,festival
+2012,50K-75K,45 to 54,some high school,festival
+2002,30K-50K,45 to 54,< 9th grade,jazz
+2012,50K-75K,45 to 54,high school,jazz
+2012,75K+,45 to 54,college,musical
+2012,0-15K,45 to 54,graduate school,musical
+2012,50K-75K,45 to 54,high school,musical
+2002,30K-50K,45 to 54,some college,musical
+2008,75K+,45 to 54,some college,musical
+2012,50K-75K,45 to 54,some college,musical
+2012,50K-75K,45 to 54,some college,musical
+2012,30K-50K,45 to 54,some college,musical
+2002,0-15K,45 to 54,< 9th grade,park
+2002,30K-50K,45 to 54,< 9th grade,park
+2002,15K-30K,45 to 54,< 9th grade,park
+2008,0-15K,45 to 54,< 9th grade,park
+2008,30K-50K,45 to 54,< 9th grade,park
+2012,50K-75K,45 to 54,< 9th grade,park
+2012,50K-75K,45 to 54,< 9th grade,park
+2012,30K-50K,45 to 54,< 9th grade,park
+2012,0-15K,45 to 54,< 9th grade,park
+2002,0-15K,45 to 54,college,park
+2002,75K+,45 to 54,college,park
+2002,50K-75K,45 to 54,college,park
+2002,75K+,45 to 54,college,park
+2002,75K+,45 to 54,college,park
+2002,75K+,45 to 54,college,park
+2008,50K-75K,45 to 54,college,park
+2008,15K-30K,45 to 54,college,park
+2008,75K+,45 to 54,college,park
+2008,75K+,45 to 54,college,park
+2008,75K+,45 to 54,college,park
+2012,75K+,45 to 54,college,park
+2012,75K+,45 to 54,college,park
+2012,75K+,45 to 54,college,park
+2012,75K+,45 to 54,college,park
+2012,75K+,45 to 54,college,park
+2008,75K+,45 to 54,graduate school,park
+2008,75K+,45 to 54,graduate school,park
+2012,50K-75K,45 to 54,graduate school,park
+2012,75K+,45 to 54,graduate school,park
+2012,15K-30K,45 to 54,graduate school,park
+2002,30K-50K,45 to 54,high school,park
+2002,50K-75K,45 to 54,high school,park
+2002,50K-75K,45 to 54,high school,park
+2002,30K-50K,45 to 54,high school,park
+2002,50K-75K,45 to 54,high school,park
+2002,75K+,45 to 54,high school,park
+2002,75K+,45 to 54,high school,park
+2002,50K-75K,45 to 54,high school,park
+2008,30K-50K,45 to 54,high school,park
+2008,50K-75K,45 to 54,high school,park
+2008,15K-30K,45 to 54,high school,park
+2008,50K-75K,45 to 54,high school,park
+2008,15K-30K,45 to 54,high school,park
+2008,75K+,45 to 54,high school,park
+2008,50K-75K,45 to 54,high school,park
+2008,75K+,45 to 54,high school,park
+2008,30K-50K,45 to 54,high school,park
+2008,0-15K,45 to 54,high school,park
+2012,75K+,45 to 54,high school,park
+2012,50K-75K,45 to 54,high school,park
+2012,50K-75K,45 to 54,high school,park
+2012,50K-75K,45 to 54,high school,park
+2012,75K+,45 to 54,high school,park
+2012,30K-50K,45 to 54,high school,park
+2012,50K-75K,45 to 54,high school,park
+2012,75K+,45 to 54,high school,park
+2012,75K+,45 to 54,high school,park
+2002,15K-30K,45 to 54,some college,park
+2002,75K+,45 to 54,some college,park
+2002,50K-75K,45 to 54,some college,park
+2002,75K+,45 to 54,some college,park
+2002,30K-50K,45 to 54,some college,park
+2002,30K-50K,45 to 54,some college,park
+2002,75K+,45 to 54,some college,park
+2002,50K-75K,45 to 54,some college,park
+2008,50K-75K,45 to 54,some college,park
+2008,75K+,45 to 54,some college,park
+2008,75K+,45 to 54,some college,park
+2008,75K+,45 to 54,some college,park
+2008,75K+,45 to 54,some college,park
+2008,75K+,45 to 54,some college,park
+2008,50K-75K,45 to 54,some college,park
+2008,50K-75K,45 to 54,some college,park
+2008,75K+,45 to 54,some college,park
+2008,75K+,45 to 54,some college,park
+2012,75K+,45 to 54,some college,park
+2012,50K-75K,45 to 54,some college,park
+2012,15K-30K,45 to 54,some college,park
+2012,30K-50K,45 to 54,some college,park
+2012,30K-50K,45 to 54,some college,park
+2012,15K-30K,45 to 54,some college,park
+2012,75K+,45 to 54,some college,park
+2012,0-15K,45 to 54,some college,park
+2012,30K-50K,45 to 54,some college,park
+2012,15K-30K,45 to 54,some college,park
+2012,15K-30K,45 to 54,some college,park
+2012,0-15K,45 to 54,some college,park
+2012,50K-75K,45 to 54,some college,park
+2012,75K+,45 to 54,some college,park
+2012,75K+,45 to 54,some college,park
+2012,75K+,45 to 54,some college,park
+2012,30K-50K,45 to 54,some college,park
+2012,75K+,45 to 54,some college,park
+2012,0-15K,45 to 54,some college,park
+2002,30K-50K,45 to 54,some high school,park
+2008,75K+,45 to 54,some high school,park
+2008,75K+,45 to 54,some high school,park
+2008,30K-50K,45 to 54,some high school,park
+2008,15K-30K,45 to 54,some high school,park
+2008,75K+,45 to 54,some high school,park
+2012,15K-30K,45 to 54,some high school,park
+2012,75K+,45 to 54,some high school,park
+2012,15K-30K,45 to 54,some high school,park
+2012,75K+,45 to 54,some high school,park
+2002,75K+,45 to 54,graduate school,play
+2012,30K-50K,45 to 54,some college,play
+2008,15K-30K,45 to 54,< 9th grade,salsa
+2012,75K+,45 to 54,< 9th grade,salsa
+2012,30K-50K,45 to 54,high school,salsa
+2008,75K+,45 to 54,some college,salsa
+2008,30K-50K,45 to 54,some high school,salsa
+2002,75K+,55 to 64,graduate school,art museum
+2012,50K-75K,55 to 64,some college,art museum
+2008,30K-50K,55 to 64,some high school,classical
+2008,50K-75K,55 to 64,< 9th grade,craft fair
+2002,0-15K,55 to 64,high school,craft fair
+2012,75K+,55 to 64,high school,craft fair
+2008,30K-50K,55 to 64,some college,craft fair
+2008,30K-50K,55 to 64,some college,craft fair
+2012,75K+,55 to 64,some college,craft fair
+2002,15K-30K,55 to 64,some high school,craft fair
+2012,50K-75K,55 to 64,some high school,craft fair
+2002,30K-50K,55 to 64,< 9th grade,dance
+2012,75K+,55 to 64,college,festival
+2008,75K+,55 to 64,graduate school,festival
+2002,75K+,55 to 64,high school,festival
+2008,50K-75K,55 to 64,high school,festival
+2008,50K-75K,55 to 64,high school,festival
+2008,15K-30K,55 to 64,high school,festival
+2012,75K+,55 to 64,high school,festival
+2012,30K-50K,55 to 64,some college,festival
+2012,50K-75K,55 to 64,high school,jazz
+2002,75K+,55 to 64,some college,jazz
+2002,50K-75K,55 to 64,high school,musical
+2008,30K-50K,55 to 64,high school,musical
+2012,75K+,55 to 64,high school,musical
+2012,75K+,55 to 64,high school,musical
+2008,75K+,55 to 64,some college,musical
+2012,50K-75K,55 to 64,some college,musical
+2008,30K-50K,55 to 64,some high school,musical
+2002,0-15K,55 to 64,< 9th grade,park
+2002,50K-75K,55 to 64,< 9th grade,park
+2002,30K-50K,55 to 64,< 9th grade,park
+2002,0-15K,55 to 64,< 9th grade,park
+2008,50K-75K,55 to 64,< 9th grade,park
+2008,15K-30K,55 to 64,< 9th grade,park
+2012,0-15K,55 to 64,< 9th grade,park
+2002,0-15K,55 to 64,college,park
+2002,75K+,55 to 64,college,park
+2002,75K+,55 to 64,college,park
+2002,0-15K,55 to 64,college,park
+2002,30K-50K,55 to 64,college,park
+2008,75K+,55 to 64,college,park
+2008,15K-30K,55 to 64,college,park
+2008,75K+,55 to 64,college,park
+2008,75K+,55 to 64,college,park
+2008,75K+,55 to 64,college,park
+2012,75K+,55 to 64,college,park
+2012,30K-50K,55 to 64,college,park
+2012,30K-50K,55 to 64,college,park
+2012,50K-75K,55 to 64,college,park
+2008,0-15K,55 to 64,graduate school,park
+2012,75K+,55 to 64,graduate school,park
+2012,75K+,55 to 64,graduate school,park
+2012,50K-75K,55 to 64,graduate school,park
+2012,15K-30K,55 to 64,graduate school,park
+2002,75K+,55 to 64,high school,park
+2002,15K-30K,55 to 64,high school,park
+2002,0-15K,55 to 64,high school,park
+2002,30K-50K,55 to 64,high school,park
+2002,0-15K,55 to 64,high school,park
+2002,30K-50K,55 to 64,high school,park
+2002,75K+,55 to 64,high school,park
+2002,75K+,55 to 64,high school,park
+2002,0-15K,55 to 64,high school,park
+2008,50K-75K,55 to 64,high school,park
+2008,30K-50K,55 to 64,high school,park
+2012,15K-30K,55 to 64,high school,park
+2012,15K-30K,55 to 64,high school,park
+2012,15K-30K,55 to 64,high school,park
+2012,15K-30K,55 to 64,high school,park
+2012,0-15K,55 to 64,high school,park
+2012,0-15K,55 to 64,high school,park
+2012,50K-75K,55 to 64,high school,park
+2012,30K-50K,55 to 64,high school,park
+2002,75K+,55 to 64,some college,park
+2002,30K-50K,55 to 64,some college,park
+2002,15K-30K,55 to 64,some college,park
+2002,15K-30K,55 to 64,some college,park
+2002,15K-30K,55 to 64,some college,park
+2008,0-15K,55 to 64,some college,park
+2008,15K-30K,55 to 64,some college,park
+2008,30K-50K,55 to 64,some college,park
+2008,75K+,55 to 64,some college,park
+2008,75K+,55 to 64,some college,park
+2008,50K-75K,55 to 64,some college,park
+2008,75K+,55 to 64,some college,park
+2008,75K+,55 to 64,some college,park
+2008,30K-50K,55 to 64,some college,park
+2008,75K+,55 to 64,some college,park
+2008,15K-30K,55 to 64,some college,park
+2008,30K-50K,55 to 64,some college,park
+2008,30K-50K,55 to 64,some college,park
+2012,15K-30K,55 to 64,some college,park
+2012,50K-75K,55 to 64,some college,park
+2012,15K-30K,55 to 64,some college,park
+2012,0-15K,55 to 64,some college,park
+2012,50K-75K,55 to 64,some college,park
+2012,50K-75K,55 to 64,some college,park
+2012,75K+,55 to 64,some college,park
+2012,50K-75K,55 to 64,some college,park
+2012,0-15K,55 to 64,some college,park
+2012,75K+,55 to 64,some college,park
+2012,30K-50K,55 to 64,some college,park
+2012,30K-50K,55 to 64,some college,park
+2012,30K-50K,55 to 64,some college,park
+2012,30K-50K,55 to 64,some college,park
+2012,0-15K,55 to 64,some college,park
+2008,0-15K,55 to 64,some high school,park
+2012,30K-50K,55 to 64,some high school,park
+2012,30K-50K,55 to 64,some high school,park
+2012,15K-30K,55 to 64,some high school,park
+2008,0-15K,55 to 64,< 9th grade,salsa
+2012,0-15K,55 to 64,< 9th grade,salsa
+2012,15K-30K,65 to 74,< 9th grade,art museum
+2002,75K+,65 to 74,some college,art museum
+2012,75K+,65 to 74,some college,art museum
+2012,75K+,65 to 74,some college,art museum
+2002,15K-30K,65 to 74,< 9th grade,craft fair
+2008,50K-75K,65 to 74,< 9th grade,craft fair
+2008,30K-50K,65 to 74,high school,craft fair
+2008,30K-50K,65 to 74,some college,craft fair
+2012,75K+,65 to 74,some college,craft fair
+2012,15K-30K,65 to 74,< 9th grade,festival
+2002,50K-75K,65 to 74,high school,festival
+2008,75K+,65 to 74,some college,festival
+2002,15K-30K,65 to 74,< 9th grade,opera
+2002,15K-30K,65 to 74,< 9th grade,park
+2002,0-15K,65 to 74,< 9th grade,park
+2012,0-15K,65 to 74,< 9th grade,park
+2002,0-15K,65 to 74,college,park
+2002,15K-30K,65 to 74,college,park
+2002,75K+,65 to 74,college,park
+2002,75K+,65 to 74,college,park
+2008,75K+,65 to 74,college,park
+2012,15K-30K,65 to 74,college,park
+2012,50K-75K,65 to 74,college,park
+2008,50K-75K,65 to 74,graduate school,park
+2008,75K+,65 to 74,graduate school,park
+2008,30K-50K,65 to 74,graduate school,park
+2012,15K-30K,65 to 74,graduate school,park
+2012,75K+,65 to 74,graduate school,park
+2012,75K+,65 to 74,graduate school,park
+2012,75K+,65 to 74,graduate school,park
+2002,30K-50K,65 to 74,high school,park
+2002,30K-50K,65 to 74,high school,park
+2002,50K-75K,65 to 74,high school,park
+2008,15K-30K,65 to 74,high school,park
+2008,0-15K,65 to 74,high school,park
+2008,30K-50K,65 to 74,high school,park
+2008,50K-75K,65 to 74,high school,park
+2008,0-15K,65 to 74,high school,park
+2008,30K-50K,65 to 74,high school,park
+2008,30K-50K,65 to 74,high school,park
+2012,75K+,65 to 74,high school,park
+2012,15K-30K,65 to 74,high school,park
+2012,0-15K,65 to 74,high school,park
+2012,30K-50K,65 to 74,high school,park
+2012,15K-30K,65 to 74,high school,park
+2012,0-15K,65 to 74,high school,park
+2012,0-15K,65 to 74,high school,park
+2012,75K+,65 to 74,high school,park
+2002,0-15K,65 to 74,some college,park
+2002,15K-30K,65 to 74,some college,park
+2002,0-15K,65 to 74,some college,park
+2002,30K-50K,65 to 74,some college,park
+2002,15K-30K,65 to 74,some college,park
+2008,15K-30K,65 to 74,some college,park
+2008,50K-75K,65 to 74,some college,park
+2008,15K-30K,65 to 74,some college,park
+2008,15K-30K,65 to 74,some college,park
+2008,15K-30K,65 to 74,some college,park
+2008,0-15K,65 to 74,some college,park
+2008,15K-30K,65 to 74,some college,park
+2008,30K-50K,65 to 74,some college,park
+2012,0-15K,65 to 74,some college,park
+2012,15K-30K,65 to 74,some college,park
+2012,30K-50K,65 to 74,some college,park
+2012,30K-50K,65 to 74,some college,park
+2012,0-15K,65 to 74,some college,park
+2012,15K-30K,65 to 74,some college,park
+2012,15K-30K,65 to 74,some college,park
+2012,30K-50K,65 to 74,some college,park
+2002,30K-50K,65 to 74,some high school,park
+2008,0-15K,65 to 74,some high school,park
+2008,0-15K,65 to 74,some high school,park
+2012,75K+,65 to 74,some high school,park
+2012,30K-50K,65 to 74,some high school,park
+2002,0-15K,65 to 74,< 9th grade,play
+2002,75K+,75+,some college,art museum
+2002,30K-50K,75+,high school,classical
+2008,15K-30K,75+,some college,classical
+2008,75K+,75+,some college,classical
+2012,50K-75K,75+,some college,classical
+2008,15K-30K,75+,high school,craft fair
+2008,15K-30K,75+,high school,craft fair
+2012,15K-30K,75+,< 9th grade,festival
+2008,0-15K,75+,high school,festival
+2012,30K-50K,75+,some college,festival
+2008,75K+,75+,graduate school,jazz
+2008,75K+,75+,high school,jazz
+2012,50K-75K,75+,graduate school,musical
+2002,15K-30K,75+,high school,musical
+2012,50K-75K,75+,high school,musical
+2002,0-15K,75+,some college,musical
+2002,0-15K,75+,< 9th grade,park
+2008,15K-30K,75+,< 9th grade,park
+2008,15K-30K,75+,< 9th grade,park
+2008,15K-30K,75+,< 9th grade,park
+2008,75K+,75+,< 9th grade,park
+2012,15K-30K,75+,< 9th grade,park
+2012,30K-50K,75+,< 9th grade,park
+2012,30K-50K,75+,< 9th grade,park
+2002,15K-30K,75+,college,park
+2002,0-15K,75+,college,park
+2008,15K-30K,75+,college,park
+2008,75K+,75+,college,park
+2008,75K+,75+,college,park
+2008,15K-30K,75+,college,park
+2012,75K+,75+,college,park
+2012,50K-75K,75+,college,park
+2012,30K-50K,75+,college,park
+2012,30K-50K,75+,college,park
+2012,30K-50K,75+,college,park
+2012,15K-30K,75+,college,park
+2012,75K+,75+,college,park
+2002,50K-75K,75+,graduate school,park
+2002,30K-50K,75+,graduate school,park
+2012,15K-30K,75+,graduate school,park
+2012,30K-50K,75+,graduate school,park
+2012,30K-50K,75+,graduate school,park
+2012,0-15K,75+,graduate school,park
+2012,15K-30K,75+,graduate school,park
+2002,75K+,75+,high school,park
+2002,15K-30K,75+,high school,park
+2002,15K-30K,75+,high school,park
+2002,30K-50K,75+,high school,park
+2008,0-15K,75+,high school,park
+2008,0-15K,75+,high school,park
+2008,0-15K,75+,high school,park
+2008,50K-75K,75+,high school,park
+2008,30K-50K,75+,high school,park
+2012,50K-75K,75+,high school,park
+2012,50K-75K,75+,high school,park
+2012,30K-50K,75+,high school,park
+2012,30K-50K,75+,high school,park
+2012,75K+,75+,high school,park
+2002,15K-30K,75+,some college,park
+2002,50K-75K,75+,some college,park
+2002,15K-30K,75+,some college,park
+2002,15K-30K,75+,some college,park
+2002,15K-30K,75+,some college,park
+2002,15K-30K,75+,some college,park
+2002,30K-50K,75+,some college,park
+2002,30K-50K,75+,some college,park
+2002,15K-30K,75+,some college,park
+2008,0-15K,75+,some college,park
+2008,0-15K,75+,some college,park
+2008,30K-50K,75+,some college,park
+2008,30K-50K,75+,some college,park
+2008,15K-30K,75+,some college,park
+2008,75K+,75+,some college,park
+2008,30K-50K,75+,some college,park
+2008,15K-30K,75+,some college,park
+2012,30K-50K,75+,some college,park
+2012,15K-30K,75+,some college,park
+2012,15K-30K,75+,some college,park
+2012,0-15K,75+,some college,park
+2012,30K-50K,75+,some college,park
+2012,50K-75K,75+,some college,park
+2012,15K-30K,75+,some college,park
+2012,0-15K,75+,some college,park
+2012,15K-30K,75+,some college,park
+2012,30K-50K,75+,some college,park
+2002,50K-75K,75+,some high school,park
+2008,15K-30K,75+,some high school,park
+2008,15K-30K,75+,some high school,park
+2008,30K-50K,75+,some high school,park
+2012,15K-30K,75+,some high school,park
